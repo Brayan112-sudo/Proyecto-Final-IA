@@ -1,3 +1,7 @@
+# Nombres: Brayan Obed Solano Febles
+# Matrícula: 23-SISN-2-005
+
+
 import re
 
 Q = "?w=400&h=400&fit=crop&auto=format"

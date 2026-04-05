@@ -1,3 +1,7 @@
+# Nombres: Brayan Obed Solano Febles
+# Matrícula: 23-SISN-2-005
+
+
 import gradio as gr
 from api_conexion import obtener_productos
 from productos import filtrar_por_precio, ordenar_productos, formatear_resultados, calcular_puntaje

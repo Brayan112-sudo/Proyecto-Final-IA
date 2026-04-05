@@ -1,3 +1,7 @@
+# Nombres: Brayan Obed Solano Febles
+# Matrícula: 23-SISN-2-005
+
+
 import math
 
 # Parámetros del modelo (reputación por marca y precio base por categoría)
