@@ -25,3 +25,6 @@ Luego abrir http://localhost:7860 en el navegador.
 !pip install gradio
 !python tienda_atlet.py
 ```
+
+
+https://youtu.be/vgfadraNzBM?si=YBo5l376BdfOEQCo
